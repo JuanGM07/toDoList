@@ -108,3 +108,14 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+
+footer {
+    background-color: #4b4b4b;
+    padding: 10px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid #4b4b4b;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+}
